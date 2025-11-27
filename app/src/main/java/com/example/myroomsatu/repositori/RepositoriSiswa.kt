@@ -5,7 +5,7 @@ import com.example.myroomsatu.room.SiswaDao
 import kotlinx.coroutines.flow.Flow
 
 interface RepositoriSiswa {
-    fun getAllSiwaStream(): Flow<List<Siswa>>
+    fun getAllSiswaStream(): Flow<List<Siswa>>
     suspend fun  insertSiswa(siswa: Siswa)
 }
 
