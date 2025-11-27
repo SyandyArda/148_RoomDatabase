@@ -27,10 +27,10 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.myroomsatu.viewmodel.DetailSiswa
 import com.example.myroomsatu.viewmodel.EntryViewModel
-import com.example.myroomsatu.viewmodel.UIStateSiswa
 import com.example.myroomsatu.viewmodel.provider.PenyediaViewModel
 import com.example.myroomsatu.view.route.DestinasiEntry
 import com.example.myroomsatu.R
+import com.example.myroomsatu.viewmodel.UIStateSiswa
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
