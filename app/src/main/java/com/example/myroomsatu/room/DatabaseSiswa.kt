@@ -1,4 +1,5 @@
 package com.example.myroomsatu.room
 
-class DatabaseSiswa {
-}
+import androidx.room.Database
+
+@Database
