@@ -1,4 +1,4 @@
 package com.example.myroomsatu.room
 
-@entity Siswa {
+interface SiswaDao {
 }
