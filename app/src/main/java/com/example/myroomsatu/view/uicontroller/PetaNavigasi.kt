@@ -8,6 +8,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.myroomsatu.view.EntrySiswaScreen
+import com.example.myroomsatu.view.HomeScreen
 import com.example.myroomsatu.view.route.DestinasiEntry
 import com.example.myroomsatu.view.route.DestinasiHome
 
