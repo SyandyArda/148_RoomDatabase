@@ -10,3 +10,13 @@ halaman detail
 
 hapus
 <img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/d56d3617-e6ed-4aef-b86c-889494077bb9" />
+
+
+sebelum edit
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/d1640527-b6b5-4691-91d7-497877491bd8" />
+
+halaman edit
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/e63e8234-10e1-4eb8-91ae-56b8939810c0" />
+
+setelah edit
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/2239e3be-3699-4cb0-a17b-17c96117ad01" />
